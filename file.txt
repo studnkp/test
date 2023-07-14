@@ -1,1 +1,2 @@
-here i am 
+here i am going 
+to learn about the git and github
